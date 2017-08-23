@@ -1,0 +1,9 @@
+.content{
+  display: flex;
+}
+
+footer{
+  clear: both;
+  background-color: red;
+  color: white;
+}
